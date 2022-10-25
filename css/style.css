@@ -3,9 +3,34 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Montserrat-Bold";
 }
 
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bolder;
+}
+
 #title {
     background-color: #051d35;
+    color: white;
     
+}
+
+.navbar{
+ padding: 0 0 4.5rem;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat-Bold";
+}
+
+.big-heading{
+    color: white;
 }
 
 .container-fluid{
@@ -13,10 +38,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .Tobby{
-    max-width:700px;
-    max-height:500px;
-    width: auto;
-    height: auto;
+    width: 60%;
+    transform: rotate(25deg);
 }
 
 .paulo{
