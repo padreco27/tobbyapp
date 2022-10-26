@@ -47,3 +47,13 @@ h1, h2, h3, h4, h5, h6 {
   height: 100px;
   object-fit: cover;
 }
+
+
+#features{
+    padding: 7% 15% ;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
